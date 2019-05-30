@@ -1,0 +1,5 @@
+# Ignore NLTK datasets
+datasets/
+
+# Misc
+.DS_Store
