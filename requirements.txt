@@ -1,0 +1,5 @@
+jupyter==1.0.0
+matplotlib==3.0.3
+nltk==3.4.1
+numpy==1.16.2
+tensorflow==2.0.0a0
