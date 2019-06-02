@@ -1,5 +1,10 @@
 # Ignore NLTK datasets
 nltk_data/
 
+# Ignore cache
+__pycache__/
+.ipynb_checkpoints/
+
 # Misc
+notes.txt
 .DS_Store
